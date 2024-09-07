@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding, music, studying
 - 🌱 I’m currently learning JAVA & Python
 - 💞️ I’m looking to collaborate on IDK
+-  Associate Functional Safety Engineer
 - 📫 How to reach me mucha.dave@gmail.com
 
 <!---
